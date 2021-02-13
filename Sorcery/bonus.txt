@@ -1,0 +1,1 @@
+Exclusive use of smart pointers and vectors, no explicit memory management
